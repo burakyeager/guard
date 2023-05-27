@@ -1,0 +1,11 @@
+{
+    "prefix" : ";",
+    "webhook_error" : "https://discord.com/api/webhooks/1096011824958283796/OW7slwqNvJdd6HbB_t408WqZiKy0PedrggVHKer9Yx9zpEoBYNuR8JyIDUyvw7fAWsGn",
+    "mongoURL1" : "mongodb+srv://jarvis:op@cluster0.7tisvwv.mongodb.net/?retryWrites=true&w=majority",
+    "mongoURL2" : "mongodb+srv://jarvis:op@cluster0.7tisvwv.mongodb.net/?retryWrites=true&w=majority",
+    "mongoURL3" : "mongodb+srv://jarvis:op@cluster0.7tisvwv.mongodb.net/?retryWrites=true&w=majority",
+    "owner" : ["536944480469909569"],
+    "gban_channel_id" : "",
+    "support_server_link" : "https://discord.gg/gq4cFYBX",
+    "guildLogs" : "1089177987531948145"
+}
